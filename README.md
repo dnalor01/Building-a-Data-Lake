@@ -1,4 +1,4 @@
-# Project 4: Data Lake
+# Data Lake
 
 ## Overview
 The task for this project is to assist a startup music streaming company, Sparkify, in transitioning from their current data infrastructure (a data warehouse) to a data lake. This is accomplished by creating a data pipeline which extracts their current data from S3, transforms it into a set of fact and dimension tables, and loads this structure back to S3. This makes analysis of user and song activity easier. Spark is used as the primary data processing tool throughout the ETL.
